@@ -36,4 +36,3 @@ Ce projet vise à fournir des exemples simples de programmes Python pour aider �
 1. **Cloner le dépôt** :
    ```bash
    git clone https://github.com/innovcode/jour2-exo.git
-   cd jour2-exo.git
