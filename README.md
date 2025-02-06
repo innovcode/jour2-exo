@@ -29,7 +29,7 @@ Ce projet vise à fournir des exemples simples de programmes Python pour aider �
 ### Mini-projet : Calculatrice basique
 
 - **Objectif** : Créer une calculatrice qui effectue des opérations de base (addition, soustraction, multiplication, division).
-- **Fichier** : `calculatrice.py`
+- **Fichier** : `exercice3.py`
 
 ## Comment lancer les exercices
 
